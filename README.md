@@ -1,8 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df0a4b86-e5ec-497d-96b9-07e67d56fb95/deploy-status)](https://app.netlify.com/sites/geode-solutions/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df0a4b86-e5ec-497d-96b9-07e67d56fb95/deploy-status)](https://app.netlify.com/sites/bookratings/deploys)
 
-# geode-solutions.com
+# bookratings.com
 
-> Website for Geode-solutions
+> Website for bookratings
 
 ## Build Setup
 
